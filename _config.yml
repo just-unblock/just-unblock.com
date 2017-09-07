@@ -1,0 +1,19 @@
+# Site settings
+title: just-unblock
+email: editor@just-unblock.com
+description: > # this means to ignore newlines until "baseurl:"
+  We work hard on giving you the best tips on how to remove the
+  artificial geo barriers imposed on internet by corporations.
+  Join us in the crusade, everybody is welcome to propose articles.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://just-unblock.com/" # the base hostname & protocol for your site
+twitter_username: just_unblock
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: just-unblock
+
+gems: [jekyll-paginate]
