@@ -24,6 +24,6 @@ In 1980, a group of college baseball players navigate their way through the free
 ![Everybody Wants Some](/images/ews.png)
 [Click HERE to watch **Everybody Wants Some**](https://www.hulu.com/watch/1039730)
 
-## If you are still not able to access Hulu, 
+## If you are still not able to access Hulu:
 
 Follow the [HOW TO](/how-to/) and unblock yourself!
