@@ -29,7 +29,7 @@ They have native apps for most of your devices that are beautiful and work perfe
 
 ---
 # [ProxyDNS][proxydns]
-[![](/images/pdns.png)][proxydns]
+[![](/images/pdns.jpg)][proxydns]
 
 As the name implies [ProxyDNS][proxydns] focuses on a DNS service (and recently added a Browser Extension for Google Chrome), this means that instead they let you enable any device by only changing the DNS settings of thet device, making it possible to unblock the devices otherwise would be impossible like the Roku, FireTV, XBOX, etc. even better you can unblock all the devices in your house by just changing the DNS settings on your Wifi Router.
 

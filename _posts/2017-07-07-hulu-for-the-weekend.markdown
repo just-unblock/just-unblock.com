@@ -4,7 +4,7 @@ title:  "Hulu movies for the weekend!"
 date:   2017-07-07 16:52:07
 categories: weekend hulu
 tags: weekend hulu
-image: /images/tina.png
+image: /images/tina.jpg
 ---
 One of the best thing of being **geo-unblocked** is access to a lot more movies than your local [Netflix](https://netflix.com) content, and one of our favorite is **[hulu](https://hulu.com/)**, so here you have a couple of recommended movies to watch this weekend:
 
